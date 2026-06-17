@@ -1,0 +1,16 @@
+{
+  "name": "冰島自駕地圖 · Iceland EV Road Map",
+  "short_name": "Iceland EV Map",
+  "description": "冰島電動車自駕地圖：Model 3 可達性、特斯拉超充、營地。Iceland EV road-trip map with Model 3 reachability, Superchargers and campsites.",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a1822",
+  "theme_color": "#0a1822",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
