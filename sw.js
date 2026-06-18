@@ -3,7 +3,7 @@
    - Map tiles and Wikimedia photos are cached on demand (cache-first) as you browse,
      so areas you've already viewed work without signal — useful in Iceland's dead zones.
    - tjalda.is (live availability/booking) is always network — never served stale. */
-const VERSION = 'v4';
+const VERSION = 'v7';
 const SHELL = 'shell-' + VERSION;
 const TILES = 'tiles-' + VERSION;
 const PHOTOS = 'photos-' + VERSION;
